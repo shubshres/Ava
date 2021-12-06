@@ -193,7 +193,7 @@ def run_ava():
             person_info = wikipedia.summary(person, 1)
             say("According to wikipedia " + person_info)
         except:
-            say("Could not find information about " + person)
+            say("Could not find information about " + person + " but here is what i found on google")
     # searching wikipedia for what something is
     elif 'what is ' in command:
         what = command.replace('what is', '')
@@ -203,7 +203,7 @@ def run_ava():
             what_info = wikipedia.summary(what, 1)
             say("According to wikipedia " + what_info)
         except:
-            say("Could not find information for what is " + what)
+            say("Could not find information for what is " + what + " but here is what i found on google")
     # telling a joke
     elif 'joke' in command:
         say(pyjokes.get_joke())
@@ -223,4 +223,4 @@ run = True
 
 say("Hello! I am ayva! What can I do for you today?")
 while(run == True):
-   run_ava()
+    run_ava()
