@@ -13,23 +13,23 @@ Created a Voice Assistant Using Python
 
 ## Install Speech Recognition Package for python ##
 
-https://pypi.org/project/SpeechRecognition/
-
 pip install SpeechRecognition
+
+https://pypi.org/project/SpeechRecognition/
 
 
 ## Install Text-to-Speech Conversion library for python ##
 
-https://pypi.org/project/pyttsx3/
-
 pip install pyttsx3
+
+https://pypi.org/project/pyttsx3/
 
 
 ## Install Audio input/output stream library for python ##
 
-https://pypi.org/project/PyAudio/
-
 pip install PyAudio
+
+https://pypi.org/project/PyAudio/
 
 
 ## Install PythonWhatKit which is a package used to search youtube for python##
