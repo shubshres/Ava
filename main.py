@@ -157,7 +157,8 @@ def run_ava():
         # calling the current time and getting the string v of the time
         curr_time = datetime.datetime.now().strftime('%I:%M %p')
         say("It is currently "+ curr_time)
-    elif 'day' in command:
+    # telling the date - not working right now. BUG: Says wrong date
+    elif 'date' in command:
         # calling the current time and getting the string v of the time
         curr_date = datetime.datetime.today().strftime("%m/%d/%Y")
         say("Today is "+ curr_date)
