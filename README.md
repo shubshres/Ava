@@ -7,7 +7,7 @@ Created a Voice Assistant Using Python
 - Copy listening.wav to project directory
 - Install Dependencies (Described Below)
 - Run Program!
-- Check out commands.txt for a list of commands you can do!
+- Check out commands.md for a list of commands you can do!
 
 #   Packages and Dependencies Used for this Project   #
 
