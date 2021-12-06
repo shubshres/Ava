@@ -188,6 +188,8 @@ def run_ava():
     elif 'who is ' in command:
         person = command.replace('who is', '')
         try:
+            url = "https://www.google.com/search?q={}".format(person)
+            webbrowser.open(url)
             person_info = wikipedia.summary(person, 1)
             say("According to wikipedia " + person_info)
         except:
@@ -196,6 +198,8 @@ def run_ava():
     elif 'what is ' in command:
         what = command.replace('what is', '')
         try:
+            url = "https://www.google.com/search?q={}".format(what)
+            webbrowser.open(url)
             what_info = wikipedia.summary(what, 1)
             say("According to wikipedia " + what_info)
         except:
@@ -210,6 +214,8 @@ def run_ava():
     elif 'thank' in command:
         say("No Problem!")
         run = False
+    elif 'how are you' in command:
+        say("I am doing great! Thank you for asking!")
     else:
         say("I didn't quite get that.")
 
@@ -218,4 +224,3 @@ run = True
 say("Hello! I am ayva! What can I do for you today?")
 while(run == True):
    run_ava()
-   
