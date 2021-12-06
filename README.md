@@ -1,6 +1,13 @@
 # Ava
 Created a Voice Assistant Using Python
 
+## To run the program: ## 
+- Set up python project environment (Using PyCharm or equivalent)
+- Use github's main.py
+- Copy listening.wav to project directory
+- Install Dependencies (Described Below)
+- Run Program!
+
 #   Packages and Dependencies Used for this Project   #
 
 ## Install Speech Recognition Package for python ##
