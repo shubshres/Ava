@@ -1,43 +1,5 @@
-#########################################################
-##   Packages and Dependencies Used for this Project   ##
-#########################################################
-# Install Speech Recognition Package for python
-# https://pypi.org/project/SpeechRecognition/
-# pip install SpeechRecognition
-
-# Install Text-to-Speech Conversion library for python
-# https://pypi.org/project/pyttsx3/
-# pip install pyttsx3
-
-# Install Audio input/output stream library for python
-# https://pypi.org/project/PyAudio/
-# pip install PyAudio
-
-# install PythonWhatKit which is a package used to search youtube for python
-# pip install pywhatkit
-# https://pypi.org/project/pywhatkit/
-
-# install wikipedia
-# pip install wikipedia
-# https://pypi.org/project/wikipedia/
-
-# install pyjokes, library that has jokes
-# pip install pyjokes
-# https://pypi.org/project/pyjokes/
-
-# install beautifulsoup4 library to search google for text
-# pip install beautifulsoup4
-
-# install google library to search google for text
-# pip install google
-
-# install google search api
-# pip install git+https://github.com/abenassi/Google-Search-API
-# https://github.com/abenassi/Google-Search-API
-
-# install playsound module to play sound
-# pip install playsound
-# https://github.com/TaylorSMarks/playsound
+# Created By Shubhayu Shrestha
+# This Code is Open Source! Feel free to use it and build up on it! 
 
 ###########################
 ##   Import Statements   ##
