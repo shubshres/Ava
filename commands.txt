@@ -1,0 +1,16 @@
+List of Commands:
+- What is your name?
+- Who are you?
+- Play _____ (Plays a song on YouTube)
+- What time is it?
+- What day is today?
+- Search for ______ (Searches for _____ on Google)
+- Open _____ (Open a specific website)
+- Go to ______ (Go to a specific website)
+- Who is ____? (Tells information about a specific person)
+- What is ____? (Tells information about a specific thing)
+- Tell me a joke 
+- Goodbye (Exits program)
+- Thank you (Exits Program)
+- Thanks (Exits program)
+- How are you?
