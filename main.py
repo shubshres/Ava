@@ -138,8 +138,7 @@ def run_ava():
         run = False
     elif 'go to' in command:
         url = command.replace(' dot ', '.')
-        if 'go to' in command:
-            url = command.replace('go to ', '')
+        url = command.replace('go to ', '')
         url = "https://" + url + "/"
         print(url)
         webbrowser.open(url)
