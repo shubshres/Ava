@@ -53,3 +53,10 @@ pip install pyjokes
 
 https://pypi.org/project/pyjokes/
 
+
+
+## install playsound, library that is used to play audio files ##
+
+pip install playsound
+
+https://pypi.org/project/playsound/
