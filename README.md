@@ -13,35 +13,35 @@ Created a Voice Assistant Using Python
 
 ## Install Speech Recognition Package for python ##
 
-pip install SpeechRecognition
+pip3 install SpeechRecognition
 
 https://pypi.org/project/SpeechRecognition/
 
 
 ## Install Text-to-Speech Conversion library for python ##
 
-pip install pyttsx3
+pip3 install pyttsx3
 
 https://pypi.org/project/pyttsx3/
 
 
 ## Install Audio input/output stream library for python ##
 
-pip install PyAudio
+pip3 install PyAudio
 
 https://pypi.org/project/PyAudio/
 
 
 ## Install PythonWhatKit which is a package used to search youtube for python##
 
-pip install pywhatkit
+pip3 install pywhatkit
 
 https://pypi.org/project/pywhatkit/
 
 
 ## install wikipedia ##
 
-pip install wikipedia
+pip3 install wikipedia
 
 https://pypi.org/project/wikipedia/
 
@@ -49,7 +49,7 @@ https://pypi.org/project/wikipedia/
 
 ## install pyjokes, library that has jokes ##
 
-pip install pyjokes
+pip3 install pyjokes
 
 https://pypi.org/project/pyjokes/
 
@@ -57,6 +57,6 @@ https://pypi.org/project/pyjokes/
 
 ## install playsound, library that is used to play audio files ##
 
-pip install playsound
+pip3 install playsound
 
 https://pypi.org/project/playsound/
