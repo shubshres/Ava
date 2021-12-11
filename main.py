@@ -1,6 +1,3 @@
-# Created By Shubhayu Shrestha
-# This Code is Open Source! Feel free to use it and build up on it! 
-
 ###########################
 ##   Import Statements   ##
 ###########################
